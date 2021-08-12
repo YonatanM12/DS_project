@@ -1,0 +1,20 @@
+Here is a descrition of the indices:
+
+DJI = Dow Jones Industrial Index
+The Dow Jones Industrial Average (DJIA), Dow Jones, or simply the Dow, is a price-weighted measurement stock market index of 30 prominent companies listed on stock exchanges in the United States.
+https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average
+
+IXIC = Nasdaq Composite Index
+The Nasdaq Composite is a stock market index that includes almost all stocks listed on the Nasdaq stock exchange. The composition of the NASDAQ Composite is heavily weighted towards companies in the information technology sector. 
+https://en.wikipedia.org/wiki/Nasdaq_Composite
+
+GSPC = Standard and Poor's 500 Index (S&P 500)
+The Standard and Poor's 500, or simply the S&P 500, is a stock market index that tracks 500 large companies listed on stock exchanges in the United States. It is one of the most commonly followed equity indices. As of December 31, 2020, more than $4.6 trillion was invested in assets tied to the performance of the index.
+https://en.wikipedia.org/wiki/S%26P_500
+
+VIX = Volatility Index
+VIX is the ticker symbol and the popular name for the Chicago Board Options Exchange's CBOE Volatility Index, a popular measure of the stock market's expectation of volatility based on S&P 500 index options. It is calculated and disseminated on a real-time basis by the CBOE, and is often referred to as the fear index or fear gauge.
+
+The Dow Jones Industrial Average, Nasdaq Composite and S&P 500, are the three most-followed stock market indices in the United States.
+
+
