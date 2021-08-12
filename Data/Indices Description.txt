@@ -14,6 +14,7 @@ https://en.wikipedia.org/wiki/S%26P_500
 
 VIX = Volatility Index
 VIX is the ticker symbol and the popular name for the Chicago Board Options Exchange's CBOE Volatility Index, a popular measure of the stock market's expectation of volatility based on S&P 500 index options. It is calculated and disseminated on a real-time basis by the CBOE, and is often referred to as the fear index or fear gauge.
+https://en.wikipedia.org/wiki/VIX
 
 The Dow Jones Industrial Average, Nasdaq Composite and S&P 500, are the three most-followed stock market indices in the United States.
 
